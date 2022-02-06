@@ -10,3 +10,4 @@
 ### Flowchart
 ![flowchat](https://user-images.githubusercontent.com/98875082/152681135-978bee89-34ce-4826-8c26-8523fd5da8d0.png)
 ### Use Case
+![Casediagram](https://user-images.githubusercontent.com/98875082/152681175-3b2e469e-c479-40dd-bdc4-bd7a11dcb284.PNG)
