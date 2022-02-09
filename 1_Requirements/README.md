@@ -19,24 +19,6 @@ Hotel management system is a project that helps to manage and stores the informa
 - Displays summary.
 
 ## SWOT Analysis
-### Strengths
-- Users friendly
-- Customers record can be maintained
-- Easy to check the availability of rooms
-- Quick response
-
-### Weakness
-- Risk in computer virus
-- Wedsite traffic 
-
-### Opportunities
-- High scope of technology
-- Increases the security
-- Customers reviews
-
-### Threats
-- High competition
-- Non standization
 
 
 ## 4w's and 1H
@@ -49,5 +31,5 @@ When the customers visit the hotel.
 ### Where
 This is seen in all the parts of the hotel where there is a lot of booking,cancellation and other actions happening.
 ### How
-The application is implemented using any of the c complier.
+Creating a system which will provide all the functionalities required for booking, cancelling of the rooms and other information regarding the management. The application is implemented using a c-complier.
 
