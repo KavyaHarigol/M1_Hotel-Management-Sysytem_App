@@ -20,6 +20,8 @@ Hotel management system is a project that helps to manage and stores the informa
 
 ## SWOT Analysis
 
+![SWOT](https://user-images.githubusercontent.com/98875082/153245274-870bb6ef-b87d-4f87-a076-c18ca25c7f49.png)
+
 
 ## 4w's and 1H
 ### Who
