@@ -8,7 +8,7 @@ All certificates obtained
 
 - Screenshot of Github Learning
 
-
+![GitHud](https://user-images.githubusercontent.com/98875082/153258562-efd99011-c238-40b0-9ecd-8f99b9214520.jpeg)
 
 
 - Screenshot HackerEarth points
