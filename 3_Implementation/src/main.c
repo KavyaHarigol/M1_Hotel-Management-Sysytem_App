@@ -1,3 +1,4 @@
+
 #include "func.h"
 void login()
 {
@@ -10,7 +11,7 @@ void login()
 	
     do
 {	
-    printf("\n------------LOGIN--------------");
+    printf("\n\n------------LOGIN--------------");
     printf(" \n\n Enter Username:-");
 	scanf("%s", &name); 
 	printf(" \n Enter Password:-");

@@ -34,15 +34,18 @@ int list()
 	int i;
 	if((f=fopen("hotel.txt","r"))==NULL)
 	exit(0);
-	system("clr");
 	printf("\n ");
-	printf("ROOM No\t ");
-	printf("NAME\t ");
-	printf("\tPHONENUMBER ");
+	printf("\tROOM No\t ");
+	printf("\tNAME\t ");
+	printf("\t\tPHONENUMBER\n");
+		for(i=0;i<118;i++)
+		printf("-");
 	while(fread(&s,sizeof(s),1,f)==1)
 	{
 		printf("\n\t%s \t\t%s  \t\t%s ",s.roomnumber, s.name ,  s.phonenumber);
 	}
+	printf("\n");
+	
 	fclose(f);
 	getchar();
 return __FUNC_H;
@@ -60,6 +63,9 @@ int delete1()
 	printf("Enter the Room Number\n");
 	fflush(stdin);
 	scanf("%s",roomnumber);
+	printf("\n");
+	for(i=0;i<118;i++)
+		printf("-");
 	while(fread(&s,sizeof(s),1,f)==1)
 	{
 		if(strcmp(s.roomnumber,roomnumber)==0)
