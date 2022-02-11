@@ -12,7 +12,7 @@ int add()
 	while(1)
 	{
 		printf("\n Enter Customer Details:");
-		printf("\n**************************");
+		printf("\n--------------------------");
 		printf("\n Enter Room number:\n");
 		scanf("\n%s",s.roomnumber);
 		fflush(stdin);
@@ -22,7 +22,7 @@ int add()
 		scanf("%s",s.phonenumber);
 		fwrite(&s,sizeof(s),1,f);
 		fflush(stdin);
-		printf("\n\n1 Room is successfully booked!!");
+		printf("\n\nRoom Booked Sucessufully");
 		return __FUNC_H;			
 	}
 	fclose(f);
@@ -36,7 +36,7 @@ int list()
 	exit(0);
 	system("clr");
 	printf("\n ");
-	printf("ROOM No ");
+	printf("ROOM No\t ");
 	printf("NAME\t ");
 	printf("\tPHONENUMBER ");
 	while(fread(&s,sizeof(s),1,f)==1)
@@ -57,7 +57,7 @@ int delete1()
 	exit(0);
 	if((f=fopen("hotel.txt","r"))==NULL)
 	exit(0);
-	printf("Enter the Room Number of the hotel to be deleted from the database: \n");
+	printf("Enter the Room Number\n");
 	fflush(stdin);
 	scanf("%s",roomnumber);
 	while(fread(&s,sizeof(s),1,f)==1)
@@ -71,7 +71,7 @@ int delete1()
 	}
 	if(i==1)
 	{       
-		printf("\n\n Records of Customer in this  Room number is not found!!");
+		printf("\n\n Records Customer not found");
 		getchar();
 		fclose(f);
 		fclose(t);
@@ -81,7 +81,7 @@ int delete1()
 	fclose(t);
 	remove("hotel.txt");
 	rename("temp.txt","hotel.txt");
-	printf("\n\nThe Customer is successfully removed....");
+	printf("\n\nRemoved successfully");
 	fclose(f);
 	fclose(t);
 	getchar();

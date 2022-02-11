@@ -8,3 +8,4 @@ The Hotel Management System provides necessary features to the visitors
 - Requirements
 - Design
 - Test plan
+
