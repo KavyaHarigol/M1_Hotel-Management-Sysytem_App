@@ -4,19 +4,10 @@ Hotel management system is a project that helps to manage and stores the informa
 # Requirements
 
 ## High Level Requirements
-- User should login using correct ID and Passsword.
-- System should allow the user to make a choice between 1 to 4.
-- It must allow to provide customer information and book the room.
-- Must allow to view customer record.
-- Helps in checking out the room(Deleting room).
-- Must allow to serach the customer record.
+
 
 ## Low Level Requirements
-- User shall make a choice accoding to there requirements.
-- User needs to book the room.
-- User shall able to give appropriate info.
-- If user specifies room number which is booked, message appears that the room is unavaliable.
-- Displays summary.
+
 
 ## SWOT Analysis
 
