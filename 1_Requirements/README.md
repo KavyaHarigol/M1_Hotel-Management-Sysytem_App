@@ -4,9 +4,27 @@ Hotel management system is a project that helps to manage and stores the informa
 # Requirements
 
 ## High Level Requirements
+| ID | Description                                               |  Status   |
+|----|-----------------------------------------------------------|-----------|
+|HLR1|Allow the user to login using correct password and username|Implemented|
+|HLR2|Allow the user to make a choice between 1 to 5 options     |Implemented|
+|HLR3|Allow the user to book a room for new customers            |Implemented|
+|HLR4|Allow the user to view the customers details               |Implemented|
+|HLR5|Allow the user to delete the customers details             |Implemented|
+|HLR6|Allow the user to search the customers details             |Implemented|
+|HLR7|Allow the user to exit from the application                |Implemented|
 
 
 ## Low Level Requirements
+| ID | Description                                                                |  Status   |
+|----|-----------------------------------------------------------                 |-----------|
+|LLR1|The application will ask to login using correct username and password       |Implemented|
+|LLR2|Application will ask to make choise between 1 to 5 options                  |Implemented|
+|LLR3|Application ask the customers details to book room                          |Implemented|
+|LLR4|Application ask the room number to view customers details                   |Implemented|
+|LLR5|Application ask the room number to remove from the records                  |Implemented|
+|LLR6|Application displays customers details if option-5 is seleted               |Implemented|
+|LLR7|Application exit if user choose option-5                                    |Implemented|
 
 
 ## SWOT Analysis
