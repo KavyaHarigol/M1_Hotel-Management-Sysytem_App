@@ -2,6 +2,9 @@
 The Hotel Management System provides necessary features to the visitors 
 
 
+# About the Code
+
+
 ## Folder Structure
 
 | Folder     | Description            |
