@@ -1,4 +1,4 @@
-# Report
+# Hotel Management System Report
 
 ## Description
 Hotel management system is a project that helps to manage and stores the information of the visitors. Once the user successfully login to the application it helps in providing the information regarding the booking the room, deleting room, searching facilities etc. This project is implemented using the c programming. 
