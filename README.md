@@ -2,11 +2,10 @@
 The Hotel Management System provides necessary features to the visitors 
 
 
-# About the Code
+# About Analysis
 | Codiga               |           Codacy       |
 |----------------------|-------------------------|
-|![Codiga Badge](https://api.codiga.io/project/31171/status/svg) ![Codiga Badge](https://api.codiga.io/project/31171/score/svg)
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/68fadb06048744caba11dbe07cd1d54a)](https://www.codacy.com/gh/KavyaHarigol/M1_Hotel-Management-Sysytem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KavyaHarigol/M1_Hotel-Management-Sysytem_App&amp;utm_campaign=Badge_Grade)|
+|![Codiga Badge](https://api.codiga.io/project/31171/status/svg) ![Codiga Badge](https://api.codiga.io/project/31171/score/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/68fadb06048744caba11dbe07cd1d54a)](https://www.codacy.com/gh/KavyaHarigol/M1_Hotel-Management-Sysytem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KavyaHarigol/M1_Hotel-Management-Sysytem_App&amp;utm_campaign=Badge_Grade)|
 
 
 ## Folder Structure
