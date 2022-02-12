@@ -19,9 +19,6 @@ The Hotel Management System provides necessary features to the visitors
 |5_Report|	Generated Report |
 |6_ImagesandVideos|	All the images and program execution video|
 
-<<<<<<< HEAD
 
-=======
 ## Resources
 - [Reference](https://itsourcecode.com/free-projects/c-projects/hotel-management-system-project-in-c-with-source-code/)
->>>>>>> 2eb9dc3aa2bf7ad231528314002a20c0e8f25530
