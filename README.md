@@ -20,4 +20,4 @@ The Hotel Management System provides necessary features to the visitors
 |6_ImagesandVideos|	All the images and program execution video|
 
 ## Reference
--  Reference of the project used
+-  
