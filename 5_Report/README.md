@@ -35,7 +35,7 @@ Hotel management system is a project that helps to manage and stores the informa
 
 
 ### 4w's and 1H
-###3 Who
+### Who
 Hotel management and development.
 #### What
 Hotel management system helps to maintain a database which is used to enter the visitors details. 
@@ -70,5 +70,35 @@ Creating a system which will provide all the functionalities required for bookin
 |  TC_06  | to delete record               |enter room number: 1         |deleted sucessfully          |deleted sucessfully         |
 |  TC_07  | to search record               |choosing option 4              |   1, ABC, 98765432110       |1, ABC, 98765432110       |
 |  TC_08  | to exit                        |choosing option 5              |Thank you, Visit again       |Thank you, Visit again    |
+
+## Output 
+
+- Login Page:
+
+![logic_S](https://user-images.githubusercontent.com/98875082/153701131-fdd1b8fa-96bb-448e-b648-e1e18f78025a.PNG)
+
+
+- For Booking Room:
+
+![book](https://user-images.githubusercontent.com/98875082/153701117-7f9236ea-208e-4d08-b54e-c0aada3c42e3.PNG)
+
+
+- To view the customers record:
+
+![view](https://user-images.githubusercontent.com/98875082/153701147-7df14de0-4fd3-425f-ba15-97338a0eb27e.PNG)
+
+
+- To search the customer using room number:
+
+![search](https://user-images.githubusercontent.com/98875082/153701158-828aa977-23bc-4717-842a-6af1757fb3cd.PNG)
+
+
+- Exiting from the main menu:
+
+![exit](https://user-images.githubusercontent.com/98875082/153701171-d63cd11e-9573-4903-b056-e3e2b5e43181.PNG)
+
+
+
+
 
 
