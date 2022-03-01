@@ -3,9 +3,9 @@ The Hotel Management System provides necessary features to the visitors
 
 
 # About Analysis
-| Codiga               |           Codacy       |
-|----------------------|-------------------------|
-|![Codiga Badge](https://api.codiga.io/project/31171/status/svg) ![Codiga Badge](https://api.codiga.io/project/31171/score/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5cd55ad1f9814e8fb82cda8345e19208)](https://www.codacy.com/gh/KavyaHarigol/M1_Hotel-Management-Sysytem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KavyaHarigol/M1_Hotel-Management-Sysytem_App&amp;utm_campaign=Badge_Grade)
+| Codiga               |           Codacy       |  CppCheck  | Git Inspector | Dynamic Code Analysis |
+|----------------------|------------------------|------------|---------------|------------------------|
+|![Codiga Badge](https://api.codiga.io/project/31171/status/svg) ![Codiga Badge](https://api.codiga.io/project/31171/score/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5cd55ad1f9814e8fb82cda8345e19208)](https://www.codacy.com/gh/KavyaHarigol/M1_Hotel-Management-Sysytem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KavyaHarigol/M1_Hotel-Management-Sysytem_App&amp;utm_campaign=Badge_Grade)|[![Cppcheck](https://github.com/KavyaHarigol/M1_Hotel-Management-Sysytem_App/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/KavyaHarigol/M1_Hotel-Management-Sysytem_App/actions/workflows/cppcheck.yml)|
 
 
 ## Folder Structure
